@@ -78,7 +78,7 @@ Example
 ```js
 export default {
     app: {
-        gateway: "https://dialogflow-web-v2.gateway.dialogflow.cloud.ushakov.co"
+        gateway: "https://dialogflow-web-v2.gateway.dialogflow.cloud.ushakov.co";
         [...]
     }
 }
